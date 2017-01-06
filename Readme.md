@@ -5,3 +5,11 @@
 -- Junit Test: RunTest.java
 
 -- StepDefinitions: StepDefs.java
+
+//Reset test
+
+--! change 1
+
+--! change 2
+
+--! change 3
